@@ -1,5 +1,5 @@
 public class GameEntity {
-    private int bossHealth = 400;
+    private int bossHealth = 400;// тут я правильно сделал или нет
     private int bossDamage = 30;
 
     private  int heroesHeals = 300;

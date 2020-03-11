@@ -1,5 +1,5 @@
 public class Weapon {
-    private String sword;
-    private String katana;
+    private String sword;// мечь тип оружия
+    private String katana;// катана это название
 
 }
